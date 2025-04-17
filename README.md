@@ -11,7 +11,7 @@ I've a passion for solving problems and i'm driven by the constant search for kn
   <a href="https://www.linkedin.com/in/giulia-souza-07527230a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 
-### 🤖 Languages and Tecnlogies
+### 🤖 Languages and Technologies
 <img 
     align="left" 
     alt="PYTHON"
