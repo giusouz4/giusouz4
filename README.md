@@ -64,14 +64,14 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&border_color=6e00ff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=midnight-purple&border_radius=12&border_color=6e00ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sgiusouz4&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=12&border_color=6e00ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giusouz4&layout=compact&langs_count=8&theme=midnight-purple&border_radius=12&border_color=6e00ff"/>
 
 </div>
 
 <div align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=midnight-purple&border=6e00ff&ring=a855f7&fire=ec4899&currStreakLabel=a855f7)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=giusouz4&theme=midnight-purple&border=6e00ff&ring=a855f7&fire=ec4899&currStreakLabel=a855f7)
 
 </div>
 
